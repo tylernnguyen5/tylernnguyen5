@@ -1,6 +1,6 @@
 ### Hi there, I'm Tyler Nguyen 👋
 
-- 🎓 I'm a IT 2020 Graduate from RMIT University
+- 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam 🇻🇳 and currently living in Melbourne, Australia 🇦🇺
 - 👨‍💻 I’m currently learning and working a Vue.js project :shipit:
 - 🥅 2020 Goals: Teach myself iOS programming and design a website about me 🚀
