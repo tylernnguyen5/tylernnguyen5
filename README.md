@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently learning and working a Vue.js project :shipit:
 - 🥅 2020 Goals: Teach myself iOS programming and design a website about me 🚀
 - 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
-- ⚡ Fun fact: I love to investigation documentary and hamburgers 🔦🍔
+- 😯 Fun fact: I love to investigation documentary and hamburgers 🔦🍔
 
 ### Connect with me via:
 
