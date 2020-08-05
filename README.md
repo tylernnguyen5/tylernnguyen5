@@ -4,13 +4,14 @@
 - 🌏 I'm from HCMC, Vietnam 🇻🇳 and currently living in Melbourne, Australia 🇦🇺
 - 👨‍💻 I’m currently learning and working a Vue.js project :shipit:
 - 🥅 2020 Goals: Teach myself iOS programming and design a website about me 🚀
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
 - ⚡ Fun fact: I love to investigation documentary and hamburgers 🔦🍔
 
 ### Connect with me:
 
 [<img align="left" alt="tylernnguyen.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Tyler Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tyler Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
 
 <br />
 
@@ -36,11 +37,7 @@
 <br />
 <br />
 
----
 
 [website]: tylernnguyen.space
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[email]: tyler.nnnguyen5@gmail.com
