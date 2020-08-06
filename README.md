@@ -18,20 +18,33 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/tylernnguyen5/news-archiver)
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/tylernnguyen5/news-archiver)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl)](https://github.com/tylernnguyen5/craigslist-scraper)
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl)](https://github.com/tylernnguyen5/craigslist-scraper)
 
-<a href="https://github.com/tylernnguyen5/news-archiver">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl" />
-</a>
-<a href="https://github.com/tylernnguyen5/craigslist-scraper">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl" />
-</a>
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=movie-night-planner&theme=nightowl)](https://github.com/tylernnguyen5/movie-night-planner)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=chat-app&theme=nightowl)](https://github.com/tylernnguyen5/chat-app)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=recipes-smoothies-app&theme=nightowl)](https://github.com/tylernnguyen5/recipes-smoothies-app)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-3&theme=nightowl)](https://github.com/tylernnguyen5/SDO-Assignment-3)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=geo-app&theme=nightowl)](https://github.com/tylernnguyen5/geo-app)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=IoT-Assignment3&theme=nightowl)](https://github.com/tylernnguyen5/IoT-Assignment3)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=facebook-lite&theme=nightowl)](https://github.com/tylernnguyen5/facebook-lite)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=programming-project-vroom&theme=nightowl)](https://github.com/tylernnguyen5/programming-project-vroom)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=WebProgramming&theme=nightowl)](https://github.com/tylernnguyen5/WebProgramming)
+
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-2&theme=nightowl)](https://github.com/tylernnguyen5/SDO-Assignment-2)
 
 ---
 
