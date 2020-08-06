@@ -15,13 +15,14 @@
 
 <br />
 <br />
-<br />
+
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
