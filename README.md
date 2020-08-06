@@ -22,7 +22,9 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/tylernnguyen5/news-archiver)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craiglist-scraper&theme=nightowl&layout=compact)](https://github.com/tylernnguyen5/craigslist-scraper)
 
 ---
 
