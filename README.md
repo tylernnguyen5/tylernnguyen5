@@ -14,8 +14,10 @@
 [<img align="left" alt="Tyler Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
 
 <br />
+<br />
+<br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
