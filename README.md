@@ -24,7 +24,14 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/tylernnguyen5/news-archiver)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl&layout=compact)](https://github.com/tylernnguyen5/craigslist-scraper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl)](https://github.com/tylernnguyen5/craigslist-scraper)
+
+<a href="https://github.com/tylernnguyen5/news-archiver">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl" />
+</a>
+<a href="https://github.com/tylernnguyen5/craigslist-scraper">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=nightowl" />
+</a>
 
 ---
 
