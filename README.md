@@ -48,6 +48,8 @@
 
 ---
 
+*If you're a bit of a 'neat freak' like me, click [here](https://github.com/tylernnguyen5/tylernnguyen5) for better rendering of the icons belows :grin:*
+
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ" width="26px" src="./asset/icons/intellij.svg" />
