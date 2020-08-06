@@ -1,4 +1,4 @@
-### Hi there, I'm Tyler Nguyen 👋
+### Hi there, I'm Tyler 👋
 
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam 🇻🇳 and currently living in Melbourne, Australia 🇦🇺
@@ -14,6 +14,11 @@
 [<img align="left" alt="Tyler Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
 
 <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 ### Languages and Tools:
 
