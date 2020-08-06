@@ -22,7 +22,7 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
