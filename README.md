@@ -22,7 +22,7 @@
 
 <br />
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver&theme=cobalt)](https://github.com/tylernnguyen5/news-archiver)
+[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver-vue&theme=cobalt)](https://github.com/tylernnguyen5/news-archiver-vue)
 
 [![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=cobalt)](https://github.com/tylernnguyen5/craigslist-scraper)
 
