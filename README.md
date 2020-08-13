@@ -3,7 +3,7 @@
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam and currently living in Melbourne, Australia
 - 👨‍💻 I’m currently working on my portfolio :shipit:
-- 🥅 2020 Goals: Learning React.js, teach myself iOS programming 🚀
+- 🥅 2020 Goals: Learning React.js, teaching myself iOS programming along with Flutter and learning VB.Net🚀
 - 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
 - 😯 Fun fact: I love to investigation documentary and hamburgers 🔦🍔
 
