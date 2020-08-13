@@ -2,8 +2,8 @@
 
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam and currently living in Melbourne, Australia
-- 👨‍💻 I’m currently learning and working a Vue.js project :shipit:
-- 🥅 2020 Goals: Teach myself iOS programming and design a website about me 🚀
+- 👨‍💻 I’m currently working on my portfolio :shipit:
+- 🥅 2020 Goals: Learning React.js, teach myself iOS programming 🚀
 - 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
 - 😯 Fun fact: I love to investigation documentary and hamburgers 🔦🍔
 
@@ -93,5 +93,4 @@
 [website]: tylernnguyen.space
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
 [email]: tyler.nnnguyen5@gmail.com
-[vue]: https://vuejs.org/
-[materialize]: https://materializecss.com/
+
