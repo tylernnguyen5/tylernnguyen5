@@ -74,6 +74,7 @@
 <img align="left" alt="Google Cloud Platform" width="26px" src="./asset/icons/google-cloud.svg" />
 <img align="left" alt="Puppeteer" width="26px" src="./asset/icons/pptrdev.svg" />
 <img align="left" alt="Android Studio" width="26px" src="./asset/icons/android-studio.svg" />
+<br>
 <img align="left" alt="Terraform" width="26px" src="./asset/icons/terraform.svg" />
 <img align="left" alt="HELM" width="26px" src="./asset/icons/helm.svg" />
 <img align="left" alt="Docker" width="26px" src="./asset/icons/docker.svg" />
