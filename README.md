@@ -92,5 +92,6 @@
 
 [website]: tylernnguyen.space
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
-[email]: tyler.nnnguyen5@gmail.com
+[email]: ./email.txt
+
 
