@@ -90,7 +90,7 @@
 
 
 
-[website]: tylernnguyen.space
+[website]: tylernnguyen5.github.io
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
 [email]: ./email.txt
 
