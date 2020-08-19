@@ -18,7 +18,7 @@
 
 ---
 
-[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=gradient&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -87,7 +87,6 @@
 <img align="left" alt="Trello" width="26px" src="./asset/icons/trello.svg" />
 <img align="left" alt="Slack" width="26px" src="./asset/icons/slack.svg" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://tylernnguyen5.github.io/
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
