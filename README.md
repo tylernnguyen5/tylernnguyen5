@@ -18,7 +18,7 @@
 
 ---
 
-[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=gradient&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=vue-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
