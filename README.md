@@ -2,8 +2,8 @@
 
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam and currently living in Melbourne, Australia
-- 👨‍💻 I’m currently doing an Algorithms and Data Structures Bootcamp. I'm also collaborating with other volunteers to develop a website for a non-profit organization :shipit:
-- 🥅 2020 Goals: Teaching myself iOS programming along with Flutter and learning VB.Net 🚀
+- 👨‍💻 I just completed an Algorithms and Data Structures Bootcamp and I'm practicing solving more problems. I'm also collaborating with other volunteers to develop a website for a non-profit organization :shipit:
+- 🥅 2020 Goals: Teaching myself iOS programming along with Flutter, learning React and do more CSS animation projects 🚀
 - 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
 - 😯 Fun fact: I love investigation documentary and hamburgers 🔦🍔
 
