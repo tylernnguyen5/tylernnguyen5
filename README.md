@@ -50,8 +50,6 @@
 
 ---
 
-*If you're a bit of a 'neat freak' like me, click [here](https://github.com/tylernnguyen5/tylernnguyen5) for better rendering of the icons belows :grin:*
-
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ" width="26px" src="https://banner2.cleanpng.com/20180518/ayl/kisspng-intellij-idea-integrated-development-environment-c-5afeb94fc49184.2203889815266430238052.jpg" />
@@ -92,7 +90,7 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <!-- <img align="left" alt="Trello" width="26px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" /> -->
-<img align="left" alt="Slack" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" />
+<!-- <img align="left" alt="Slack" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" /> -->
 
 
 [website]: https://tylernnguyen5.github.io/
