@@ -16,7 +16,7 @@
 <br />
 <br />
 
-[![Spotify](https://github-profile-tylernnguyen5-j3ulc7sht.vercel.app/api/spotify)](https://open.spotify.com/user/22eq3xfjklqimyq3dda3lpkaa)
+[![Spotify](https://novatorem.tylernnguyen5.vercel.app/api/spotify)](https://open.spotify.com/user/22eq3xfjklqimyq3dda3lpkaa)
 
 ---
 
