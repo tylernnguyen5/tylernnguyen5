@@ -89,8 +89,8 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Puppeteer" width="30px" src="https://raw.githubusercontent.com/transitive-bullshit/awesome-puppeteer/master/logo.png" />
-<img align="left" alt="Trello" width="30px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" />
-<img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" />
+<!-- <img align="left" alt="Trello" width="30px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" />
+<img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" /> -->
 
 
 [website]: https://tylernnguyen5.github.io/
