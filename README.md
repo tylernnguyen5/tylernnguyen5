@@ -80,7 +80,6 @@
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Circle CI" width="30px" src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" />
 <img align="left" alt="Raspberry Pi" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="Puppeteer" width="30px" src="https://raw.githubusercontent.com/transitive-bullshit/awesome-puppeteer/master/logo.png" />
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png" />
 <img align="left" alt="Spira Test" width="30px" src="https://www.inflectra.com/Images/Icons/icon-spiratest.svg" />
 <img align="left" alt="Adobe XD" width="30px" src="https://www.adobe.com/content/dam/cc/icons/xd.svg" />
@@ -89,6 +88,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<img align="left" alt="Puppeteer" width="30px" src="https://raw.githubusercontent.com/transitive-bullshit/awesome-puppeteer/master/logo.png" />
 <img align="left" alt="Trello" width="30px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" />
 <img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" />
 
