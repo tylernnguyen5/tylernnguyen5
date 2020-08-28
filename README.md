@@ -1,4 +1,4 @@
-### Hi there, I'm Tyler 👋
+### Hi there, I'm Tyler <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam and currently living in Melbourne, Australia
