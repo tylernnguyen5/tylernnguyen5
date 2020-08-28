@@ -92,6 +92,6 @@
 
 [website]: https://tylernnguyen5.github.io/
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
-[email]: ./email.txt
+[email]: https://tylernnguyen5.github.io/contact.html
 
 [sass]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiRvZaLsbHrAhUSeisKHTdED1oQFjAAegQIARAC&url=https%3A%2F%2Fsass-lang.com%2F&usg=AOvVaw0p_IRgLEbIPRGWtlW7Wph8
