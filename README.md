@@ -90,6 +90,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<br>
 <img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Trello" width="26px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" />
 <img align="left" alt="Slack" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" />
