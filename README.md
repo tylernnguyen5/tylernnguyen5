@@ -95,4 +95,4 @@
 
 [website]: https://tylernnguyen5.github.io/
 [linkedin]: https://www.linkedin.com/in/tyler-nguyen-484721151/
-[email]: https://tylernnguyen5.github.io/contact.html
+[email]: mailto:tyler.nnguyen5@gmail.com
