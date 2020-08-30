@@ -68,11 +68,11 @@
 <img align="left" alt="Materialize" width="30px" src="https://library.kissclipart.com/20181120/fzq/kissclipart-materialize-css-clipart-cascading-style-sheets-css-525adfa0ede8318b.jpg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Google Cloud Platform" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-platform-2-569356.png" />
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Terraform" width="30px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
@@ -88,9 +88,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<!-- <img align="left" alt="Puppeteer" width="30px" src="https://raw.githubusercontent.com/transitive-bullshit/awesome-puppeteer/master/logo.png" /> -->
-<!-- <img align="left" alt="Trello" width="30px" src="https://img.favpng.com/15/14/22/portable-network-graphics-trello-scalable-vector-graphics-computer-icons-png-favpng-ZHYReUBC1ifnCbEi40uEzP2yX_t.jpg" />
-<img align="left" alt="Slack" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111615.svg" /> -->
+
 
 
 [website]: https://tylernnguyen5.github.io/
