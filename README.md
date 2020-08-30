@@ -57,9 +57,10 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
+<br />
+<br />
 
 ---
-<hr>
 
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tylernnguyen5&count_private=true&show_icons=true&theme=vue-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
