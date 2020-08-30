@@ -16,6 +16,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 [![Spotify](https://novatorem.tylernnguyen5.vercel.app/api/spotify)](https://open.spotify.com/user/22eq3xfjklqimyq3dda3lpkaa)
 
