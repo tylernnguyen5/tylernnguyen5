@@ -18,8 +18,6 @@
 
 [![Spotify](https://novatorem.tylernnguyen5.vercel.app/api/spotify)](https://open.spotify.com/user/22eq3xfjklqimyq3dda3lpkaa)
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ" width="30px" src="https://banner2.cleanpng.com/20180518/ayl/kisspng-intellij-idea-integrated-development-environment-c-5afeb94fc49184.2203889815266430238052.jpg" />
@@ -58,6 +56,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+
 
 ---
 
