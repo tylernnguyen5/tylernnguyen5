@@ -15,10 +15,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 [![Spotify](https://novatorem.tylernnguyen5.vercel.app/api/spotify)](https://open.spotify.com/user/22eq3xfjklqimyq3dda3lpkaa)
 
@@ -61,6 +57,8 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
+<br />
+<br />
 <br />
 <br />
 
