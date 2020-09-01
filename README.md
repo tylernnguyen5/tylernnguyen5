@@ -2,7 +2,7 @@
 
 - 🎓 I'm an IT 2020 Graduate from RMIT University
 - 🌏 I'm from HCMC, Vietnam and currently living in Melbourne, Australia
-- 👨‍💻 I am developing repsonsive web design with multiple CSS aniamtions. I'm also collaborating with other volunteers to develop a website for a non-profit organization :shipit:
+- 👨‍💻 I am developing repsonsive web designs with different CSS animations. I'm also collaborating with other volunteers to develop a website for a non-profit organization :shipit:
 - 🥅 2020 Goals: Learning React and teaching myself iOS programming, maybe along with Flutter 🚀
 - 🌱 I feel like there are so many things that I want to learn, but I will try to narrow them down 🤣
 - 😯 Fun fact: I love investigation documentary and hamburgers 🔦🍔
@@ -57,7 +57,6 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="NPM" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
-<br />
 <br />
 <br />
 <br />
