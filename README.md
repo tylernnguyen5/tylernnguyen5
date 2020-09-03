@@ -21,7 +21,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="IntelliJ" width="30px" src="https://banner2.cleanpng.com/20180518/ayl/kisspng-intellij-idea-integrated-development-environment-c-5afeb94fc49184.2203889815266430238052.jpg" />
-<img align="left" alt="PHPStorm" width="30px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
