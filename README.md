@@ -75,11 +75,11 @@
 
 [![Craigslist Scrapper - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=cobalt)](https://github.com/tylernnguyen5/craigslist-scraper)
 
+[![Vue Chat App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=chat-app&theme=cobalt)](https://github.com/tylernnguyen5/chat-app)
+
 [![Light Dark Mode - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=light-dark-mode&theme=cobalt)](https://github.com/tylernnguyen5/light-dark-mode)
 
 [![Movie Night Planner - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=movie-night-planner&theme=cobalt)](https://github.com/tylernnguyen5/movie-night-planner)
-
-[![Vue Chat App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=chat-app&theme=cobalt)](https://github.com/tylernnguyen5/chat-app)
 
 [![Recipes Smoothies App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=recipes-smoothies-app&theme=cobalt)](https://github.com/tylernnguyen5/recipes-smoothies-app)
 
