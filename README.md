@@ -69,31 +69,33 @@
 <br />
 
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=fictional-university&theme=cobalt)](https://github.com/tylernnguyen5/fictional-university)
+[![Fictional University - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=fictional-university&theme=cobalt)](https://github.com/tylernnguyen5/fictional-university)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver-vue&theme=cobalt)](https://github.com/tylernnguyen5/news-archiver-vue)
+[![News Archiver - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=news-archiver-vue&theme=cobalt)](https://github.com/tylernnguyen5/news-archiver-vue)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=cobalt)](https://github.com/tylernnguyen5/craigslist-scraper)
+[![Craigslist Scrapper - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=craigslist-scraper&theme=cobalt)](https://github.com/tylernnguyen5/craigslist-scraper)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=movie-night-planner&theme=cobalt)](https://github.com/tylernnguyen5/movie-night-planner)
+[![Light Dark Mode - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=light-dark-mode&theme=cobalt)](https://github.com/tylernnguyen5/light-dark-mode)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=chat-app&theme=cobalt)](https://github.com/tylernnguyen5/chat-app)
+[![Movie Night Planner - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=movie-night-planner&theme=cobalt)](https://github.com/tylernnguyen5/movie-night-planner)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=recipes-smoothies-app&theme=cobalt)](https://github.com/tylernnguyen5/recipes-smoothies-app)
+[![Vue Chat App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=chat-app&theme=cobalt)](https://github.com/tylernnguyen5/chat-app)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-3&theme=cobalt)](https://github.com/tylernnguyen5/SDO-Assignment-3)
+[![Recipes Smoothies App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=recipes-smoothies-app&theme=cobalt)](https://github.com/tylernnguyen5/recipes-smoothies-app)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=geo-app&theme=cobalt)](https://github.com/tylernnguyen5/geo-app)
+[![SDO Assignment 3 - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-3&theme=cobalt)](https://github.com/tylernnguyen5/SDO-Assignment-3)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=IoT-Assignment3&theme=cobalt)](https://github.com/tylernnguyen5/IoT-Assignment3)
+[![Vue Geo App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=geo-app&theme=cobalt)](https://github.com/tylernnguyen5/geo-app)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=facebook-lite&theme=cobalt)](https://github.com/tylernnguyen5/facebook-lite)
+[![IoT Assignment 3 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=IoT-Assignment3&theme=cobalt)](https://github.com/tylernnguyen5/IoT-Assignment3)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=programming-project-vroom&theme=cobalt)](https://github.com/tylernnguyen5/programming-project-vroom)
+[![Facebook Lite - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=facebook-lite&theme=cobalt)](https://github.com/tylernnguyen5/facebook-lite)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=WebProgramming&theme=cobalt)](https://github.com/tylernnguyen5/WebProgramming)
+[![Vroom Project - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=programming-project-vroom&theme=cobalt)](https://github.com/tylernnguyen5/programming-project-vroom)
 
-[![Tyler's Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-2&theme=cobalt)](https://github.com/tylernnguyen5/SDO-Assignment-2)
+[![Web Programming - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=WebProgramming&theme=cobalt)](https://github.com/tylernnguyen5/WebProgramming)
+
+[![SDO Assignment 2 - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=SDO-Assignment-2&theme=cobalt)](https://github.com/tylernnguyen5/SDO-Assignment-2)
 
 
 
