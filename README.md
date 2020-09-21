@@ -81,6 +81,8 @@
 
 [![Light Dark Mode - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=light-dark-mode&theme=cobalt)](https://github.com/tylernnguyen5/light-dark-mode)
 
+[![CSS Playground - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=css-playground&theme=cobalt)](https://github.com/tylernnguyen5/css-playground)
+
 [![Movie Night Planner - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=movie-night-planner&theme=cobalt)](https://github.com/tylernnguyen5/movie-night-planner)
 
 [![Recipes Smoothies App - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=recipes-smoothies-app&theme=cobalt)](https://github.com/tylernnguyen5/recipes-smoothies-app)
