@@ -68,6 +68,7 @@
 
 <br />
 
+[![Travel Site - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=travel-site&theme=cobalt)](https://github.com/tylernnguyen5/travel-site)
 
 [![Fictional University - Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tylernnguyen5&repo=fictional-university&theme=cobalt)](https://github.com/tylernnguyen5/fictional-university)
 
