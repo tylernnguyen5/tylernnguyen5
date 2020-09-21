@@ -40,7 +40,7 @@
 <img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://toppng.com/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Google Cloud Platform" width="30px" src="https://www.clipartmax.com/png/middle/36-365786_google-cloud-platform-svg.png" />
+<img align="left" alt="Google Cloud Platform" width="30px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Terraform" width="30px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
 <img align="left" alt="kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
